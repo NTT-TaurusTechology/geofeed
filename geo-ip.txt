@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Geofeed,lastupdated (rfc3339): 2022-09-14T01:11:28-08:00
+# Geofeed,lastupdated (rfc3339): 2022-09-26T01:11:28-08:00
 #RANGE,COUNTRY,REGION,CITY
 163.5.174.0/24,NL,NL-AMS,Amsterdam,
 163.5.175.0/24,NL,NL-AMS,Amsterdam,
