@@ -8,4 +8,4 @@
 45.133.75.0/24,IT,IT-NA,Napoli,
 45.137.201.0/24,IT,IT-MI,Milan,
 45.147.7.0/24,IT,IT-GE,Genova,
-204.11.1.0/24,IT,IT-GR,Grosseto
+204.11.1.0/24,IT,IT-GR,Grosseto,
