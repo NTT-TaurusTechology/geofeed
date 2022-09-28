@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-# Geofeed,lastupdated (rfc3339): 2022-09-27T01:11:28-08:00
+# Geofeed,lastupdated (rfc3339): 2022-09-28T01:11:28-08:00
 #RANGE,COUNTRY,REGION,CITY
 2.56.246.0/24,IT,IT-RM,Rome,
 5.253.245.0/24,IT,IT-RM,Rome,
@@ -7,5 +7,5 @@
 45.131.65.0/24,IT,IT-PA,Palermo,
 45.133.75.0/24,IT,IT-NA,Napoli,
 45.137.201.0/24,IT,IT-MI,Milan,
-45.147.7.0/24,IT,IT-GE,Genova,
+45.84.198.0/24,IT,IT-GE,Genova,
 204.11.1.0/24,IT,IT-GR,Grosseto,
